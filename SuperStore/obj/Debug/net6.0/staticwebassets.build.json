@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "m4jiApoMOzpEYl75FF8eJ6mRqnGeWYg3+Z4l2qLXixo=",
+  "Source": "SuperStore",
+  "BasePath": "_content/SuperStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SuperStore\\wwwroot",
+      "Source": "SuperStore",
+      "ContentRoot": "D:\\SuperStoreProj\\SuperStore\\SuperStore\\wwwroot\\",
+      "BasePath": "_content/SuperStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\SuperStoreProj\\SuperStore\\SuperStore\\wwwroot\\images\\products\\sb-ang1.png",
+      "SourceId": "SuperStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SuperStoreProj\\SuperStore\\SuperStore\\wwwroot\\",
+      "BasePath": "_content/SuperStore",
+      "RelativePath": "images/products/sb-ang1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\sb-ang1.png"
+    }
+  ]
+}

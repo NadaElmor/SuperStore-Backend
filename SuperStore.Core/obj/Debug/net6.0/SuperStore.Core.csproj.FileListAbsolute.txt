@@ -1,0 +1,60 @@
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.deps.json
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfoInputs.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfo.cs
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.CoreCompileInputs.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\refint\SuperStore.Core.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.pdb
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\ref\SuperStore.Core.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.deps.json
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.pdb
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfoInputs.cache
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfo.cs
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\refint\SuperStore.Core.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.pdb
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Core\obj\Debug\net6.0\ref\SuperStore.Core.dll
+D:\APIPRoj\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.deps.json
+D:\APIPRoj\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.dll
+D:\APIPRoj\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfoInputs.cache
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfo.cs
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.CoreCompileInputs.cache
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.sourcelink.json
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.dll
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\refint\SuperStore.Core.dll
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.pdb
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\ref\SuperStore.Core.dll
+D:\APIPRoj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.AssemblyReference.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.deps.json
+D:\SuperStoreProject\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.AssemblyReference.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfoInputs.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfo.cs
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.CoreCompileInputs.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.sourcelink.json
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\refint\SuperStore.Core.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Core\obj\Debug\net6.0\ref\SuperStore.Core.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.deps.json
+D:\SuperStoreProj\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Core\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.AssemblyReference.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfoInputs.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.AssemblyInfo.cs
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.csproj.CoreCompileInputs.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\refint\SuperStore.Core.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Core\obj\Debug\net6.0\ref\SuperStore.Core.dll

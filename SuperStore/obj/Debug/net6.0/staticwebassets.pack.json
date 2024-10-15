@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SuperStoreProj\\SuperStore\\SuperStore\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SuperStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SuperStore.props",
+      "PackagePath": "build\\SuperStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SuperStore.props",
+      "PackagePath": "buildMultiTargeting\\SuperStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SuperStore.props",
+      "PackagePath": "buildTransitive\\SuperStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,58 @@
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.deps.json
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.pdb
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfoInputs.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfo.cs
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.CoreCompileInputs.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\refint\SuperStore.Services.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.pdb
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\ref\SuperStore.Services.dll
+D:\APIPRoj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.deps.json
+D:\APIPRoj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.dll
+D:\APIPRoj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.pdb
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfoInputs.cache
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfo.cs
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.CoreCompileInputs.cache
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.sourcelink.json
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.dll
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\refint\SuperStore.Services.dll
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.pdb
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\ref\SuperStore.Services.dll
+D:\APIPRoj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Core.dll
+D:\APIPRoj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.AssemblyReference.cache
+D:\APIPRoj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.CopyComplete
+D:\SuperStoreProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.deps.json
+D:\SuperStoreProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.AssemblyReference.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfoInputs.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfo.cs
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.CoreCompileInputs.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.sourcelink.json
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.CopyComplete
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\refint\SuperStore.Services.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Services\obj\Debug\net6.0\ref\SuperStore.Services.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.deps.json
+D:\SuperStoreProj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Services.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Services\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.AssemblyReference.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfoInputs.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.AssemblyInfo.cs
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.CoreCompileInputs.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.csproj.CopyComplete
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\refint\SuperStore.Services.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\SuperStore.Services.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Services\obj\Debug\net6.0\ref\SuperStore.Services.dll

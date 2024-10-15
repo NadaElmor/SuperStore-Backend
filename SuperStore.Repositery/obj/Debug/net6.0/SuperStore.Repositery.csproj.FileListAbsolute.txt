@@ -1,0 +1,87 @@
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.deps.json
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.runtimeconfig.json
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.pdb
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.AssemblyReference.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfoInputs.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfo.cs
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CoreCompileInputs.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CopyComplete
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\refint\SuperStore.Repositery.dll
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.pdb
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.genruntimeconfig.cache
+D:\full stack web development\Back-End ASP.net\FinalProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\ref\SuperStore.Repositery.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.deps.json
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.runtimeconfig.json
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.pdb
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.pdb
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.AssemblyReference.cache
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfoInputs.cache
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfo.cs
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CoreCompileInputs.cache
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CopyComplete
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\refint\SuperStore.Repositery.dll
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.pdb
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.genruntimeconfig.cache
+C:\Users\DeS\Desktop\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\ref\SuperStore.Repositery.dll
+D:\APIPRoj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.deps.json
+D:\APIPRoj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.runtimeconfig.json
+D:\APIPRoj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.dll
+D:\APIPRoj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.pdb
+D:\APIPRoj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.dll
+D:\APIPRoj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.AssemblyReference.cache
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfoInputs.cache
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfo.cs
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CoreCompileInputs.cache
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.sourcelink.json
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CopyComplete
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.dll
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\refint\SuperStore.Repositery.dll
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.pdb
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.genruntimeconfig.cache
+D:\APIPRoj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\ref\SuperStore.Repositery.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.deps.json
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.runtimeconfig.json
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.AssemblyReference.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfoInputs.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfo.cs
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CoreCompileInputs.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.sourcelink.json
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CopyComplete
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\refint\SuperStore.Repositery.dll
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.pdb
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.genruntimeconfig.cache
+D:\SuperStoreProject\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\ref\SuperStore.Repositery.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.deps.json
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.runtimeconfig.json
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Repositery.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\bin\Debug\net6.0\SuperStore.Core.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.AssemblyReference.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfoInputs.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.AssemblyInfo.cs
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CoreCompileInputs.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.csproj.CopyComplete
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\refint\SuperStore.Repositery.dll
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.pdb
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\SuperStore.Repositery.genruntimeconfig.cache
+D:\SuperStoreProj\SuperStore\SuperStore.Repositery\obj\Debug\net6.0\ref\SuperStore.Repositery.dll
